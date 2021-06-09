@@ -1,0 +1,28 @@
+{
+  "name": "eslint-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuzminaYuliya/eslint-hw.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "KuzminaYuliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuzminaYuliya/eslint-hw/issues"
+  },
+  "homepage": "https://github.com/KuzminaYuliya/eslint-hw#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
